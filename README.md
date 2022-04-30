@@ -11,7 +11,7 @@
 ```
 --data：数据存储相关
 
-----all_docs.txt：文本数据，以\\x01分隔，分别为id，title，content
+----all_docs.txt：文本数据，以\x01分隔，分别为id，title，content
 
 ----process.py：数据处理生成test.json
 
