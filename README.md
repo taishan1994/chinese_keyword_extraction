@@ -7,6 +7,7 @@
 提取码：st02<br>
 
 # 目录结构
+先运行data下的process.py生成test.json
 
 ```
 --data：数据存储相关
