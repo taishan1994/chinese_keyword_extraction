@@ -23,7 +23,7 @@
 
 ----train_docx_keywords.txt：不带关键词的文本10万+
 
---keyword_extraction：主代码
+----keyword_extraction：主代码
 
 ----jieba_textrank.py：基于jieba+textrank的提取
 
