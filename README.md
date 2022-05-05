@@ -41,6 +41,8 @@
 
 ----seg_utils.py：基于多进程+tqdm显示的分词
 
+----smoothnlp_extract.py：基于smoothnlp的提取
+
 ----utils.py：一些辅助函数
 ```
 
